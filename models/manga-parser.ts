@@ -1,4 +1,4 @@
-import { BaseParser, IMangaInfo, IMangaChapterPage } from '.';
+import { BaseParser, IMangaInfo, IMangaChapterPage } from './types';
 
 abstract class MangaParser extends BaseParser {
   /**
